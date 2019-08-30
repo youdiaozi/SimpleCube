@@ -1,0 +1,13 @@
+STRINGTABLE simplecube
+{
+	simplecube				"Simple Cube Object";
+
+	SIMPLECUBE_LEN		    "Size";
+    SIMPLECUBE_SUBX		    "Segments X";
+    SIMPLECUBE_SUBY		    "Segments Y";
+    SIMPLECUBE_SUBZ		    "Segments Z";
+    SIMPLECUBE_SEP		    "Separate Surfaces";
+    SIMPLECUBE_DOFILLET	    "Fillet";
+    SIMPLECUBE_FRAD		    "Fillet Radius";
+    SIMPLECUBE_SUBF		    "Fillet Subdivision";
+}
